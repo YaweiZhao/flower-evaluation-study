@@ -1,0 +1,7 @@
+{
+    "bench_param":{
+        "server_address": "localhost:8090",
+        "device": "cuda:0",
+		"num_rounds": 100
+    }
+}
